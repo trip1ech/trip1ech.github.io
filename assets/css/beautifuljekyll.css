@@ -716,9 +716,6 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 2.1875rem;
 }
 
-.intro-header .page-title {
-  font-size: 1.5rem;
-}
 
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -767,7 +764,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 2rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
