@@ -12,6 +12,8 @@
 # Name of website
 title: Ching-Chi Chou
 
+description: Personal Website
+
 # Your name to show in the footer
 author: Ching-Chi Chou
 
@@ -21,14 +23,11 @@ author: Ching-Chi Chou
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications: "publications"
+  Blog: "blog"
+  Running: "running"
+  Resume: "resume"
 
-################
-# --- Logo --- #
-################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -51,13 +50,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ching-chi.chou@epfl.ch"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: "周敬棋"
+  github: trip1ech
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -85,8 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+#rss-description: Master of Digital Humanities Engineering @EPFL
 ###########################
 # --- General options --- #
 ###########################
@@ -258,7 +255,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Switzerland/Zurich"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
