@@ -1,118 +1,54 @@
 ---
 layout: page
-title: Talks
+title: running
 ---
 
-Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
+Current Personal Records:
 
-- **Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**
-  [Slides](/static/ppt/thesis_defense.pdf){: .btn} 
-  [Video](https://www.youtube.com/watch?v=iKnCUHIgG7A){: .btn}  
-  *PhD Thesis Defense*  
-  January 26, 2024
+5000m: 16:52(unofficial) | 10000m 35:29(unofficial) | 21.0975km 1:16:02
 
-- **VoiceBox: Text-guided multi-lingual speech generation at scale**
-  [Slides](/static/ppt/voicebox.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  September 22, 2023
+Here is the list of my racing plan and records: 
 
-- **Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**
-  [Slides](/static/ppt/nvidia_talk.pdf){: .btn}  
-  *Invited talk at NVIDIA Speech group*  
-  August 18, 2023
+**Season 2025 (Already registered races)**
 
-- **FLASH Attention**
-  [Slides](/static/ppt/flash_attention.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  April 14, 2023
+- **Generali Genève Marathon (日內瓦馬拉松)**  
+  21.0975km  
+  11 May, 2025  
 
-- **Target Speaker Methods for Speech Recognition**
-  [Slides](/static/ppt/clsp_seminar_tsasr.pdf){: .btn}  
-  *CLSP Seminar*  
-  March 27, 2023
+- **TCS London marathon （倫敦馬拉松）**  
+  42.195km  
+  My marathon Debut!  
+  *World Athletics Label: GW*  
+  27 April, 2025  
 
-- **Training RNN-T models without memory bottleneck**
-  [Slides](/static/ppt/transducer_memory_reading_group.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  October 14, 2022
+- **Warsaw Half Marathon （華沙半程拉松）**  
+  21.0975km  
+  *World Athletics Label: C*  
+  30 March, 2025  
 
-- **GBO presentation**
-  [Slides](/static/ppt/gbo_presentation.pdf){: .btn}  
-  *Malone 228* (May 04, 2022)
+- **10km de Payerne (帕耶訥十公里路跑賽)**  
+  21.0975km  
+  *World Athletics Label: F*  
+  30 March, 2025
 
-- **Overlap-aware Speaker Diarization: Methods and Ensembles**  
-  *ISCA SIG-ML Seminar* (May 05, 2021): [Video](https://www.youtube.com/watch?v=SHWNqU9g_hU){: .btn} [Slides](/static/ppt/isca_sigml_desh.pdf){: .btn}  
-  *CLSP Seminar* (January 29, 2021): [Slides](/static/ppt/clsp_seminar_talk.pdf){: .btn}  
 
-- **TS-ASR: Speaker Beam and Voice Filter**
-  [Slides](/static/ppt/ts_asr_reading_group.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  October 02, 2020
+**Season 2024**
 
-- **Informed Target Speaker ASR** 
-	[Slides](/static/ppt/jsalt_final.pdf){: .btn}  
-	*JSALT 2020 Closing Presentation*  
-	August 06, 2020 
+- **Morges 10km Night Run (莫爾日十公里路跑賽)**  
+  10km  
+  **Result: 35:55**  
+  *World Athletics Label: NaN*  
+  2 November, 2024
 
-- **Target Speaker - Voice Activity Detection**
-	[Paper](https://arxiv.org/abs/2005.07272){: .btn} 
-	[Slides](/static/ppt/ts-vad.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	May 29, 2020 
+- **Lausanne Marathon(洛桑馬拉松)**  
+  21.0975km  
+  **Result: 1:16:02 (PB!!!)**  
+  *World Athletics Label: F*  
+  27 October, 2024
 
-- **The JHU Multi-Microphone Multi-Speaker ASR System for the CHiME-6 Challenge**
-	[Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
-	[Slides](/static/ppt/chime6_slides.pdf){: .btn}   
-	*CHiME-6 Virtual Workshop*    
-	May 04, 2020
-
-- **CLSP Seminar Lightning Talk**
-	[Slides](/static/ppt/lightning_talk.pdf){: .btn}   
-	*CLSP Seminar*  
-	April 03, 2020
-
-- **Imputer: Sequence Modeling via Imputation and Dynamic Programming**
-	[Paper](https://arxiv.org/pdf/2002.08926.pdf){: .btn} 
-	[Slides](/static/ppt/imputer.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 06, 2020 
-
-- **Transformer ASR with Contextual Block Processing**
-	[Paper](https://arxiv.org/pdf/1910.07204.pdf){: .btn} 
-	[Slides](/static/ppt/transformer_asr_contextual.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Hackerman 320, 3101 Wyman Park Dr, Baltimore  
-	November 04, 2019 
-
-- **Joint CTC-Attention for ASR using Multi-task Learning**
-	[Paper](https://arxiv.org/pdf/1609.06773.pdf){: .btn} 
-	[Slides](/static/ppt/joint_ctc_attention.pdf){: .btn}  
-	*Information Extraction Lightning Talk*  
-	Hackerman 320, 3101 Wyman Park Dr, Baltimore  
-	May 02, 2019 
-
-- **Contrastive Predictive Coding**
-	[Paper](https://arxiv.org/pdf/1807.03748.pdf){: .btn} 
-	[Slides](/static/ppt/contrastive_predictive_coding.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	April 29, 2019  
-
-- **Dataset Shift in NLP**
-	[Paper](https://homepages.inf.ed.ac.uk/amos/publications/Storkey2009TrainingTestDifferent.pdf){: .btn} 
-	[Slides](/static/ppt/dataset_shift.pdf){: .btn}  
-	*NLP Reading Group*  
-	Hackerman 306, 3101 Wyman Park Dr, Baltimore  
-	April 17, 2019 
-
-- **Attention-based Models for ASR**
-	[Paper](https://arxiv.org/pdf/1508.01211.pdf){: .btn} 
-	[Slides](/static/ppt/attention_models_asr.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 11, 2019  
-
-<br /> 
-
+- **EDP Lisbon Marathon(里斯本馬拉松)**  
+  21.0975km  
+  **Result: 1:24:39**  
+  *World Athletics Label: C*  
+  06 October, 2024  
 
