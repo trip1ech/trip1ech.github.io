@@ -3,7 +3,7 @@ layout: page
 title: Running
 ---
 
-## 🏃 Current Personal Records
+### 🏃Current Personal Records  
 
 - **5000m:** 16:52 *(unofficial)*  
 - **10,000m:** 35:29 *(unofficial)*  
@@ -11,9 +11,9 @@ title: Running
 
 ---
 
-## 🏁 Racing Plan and Records
+### 🏁 Racing Plans   
 
-### **Season 2025** *(Already registered races)*
+#### **Season 2025** *(Already registered races)*
 
 - **Generali Genève Marathon (日內瓦馬拉松)**  
   **Distance:** 21.0975km  
@@ -38,7 +38,7 @@ title: Running
 
 ---
 
-### **Season 2024**
+#### **Season 2024**
 
 - **Morges 10km Night Run (莫爾日十公里路跑賽)**  
   **Distance:** 10km  
