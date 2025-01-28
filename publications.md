@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=ncRpl58AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
 **Journal publications**
@@ -23,7 +23,6 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
   *Bulletin of The Geographical Society of China*  
   [Paper](https://www.airitilibrary.com/Article/Detail 10251464-201809-201901210007-201901210007-51-66){: .btn} 
 
-<br/>
 
 **Conference publications**
 
@@ -32,14 +31,12 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
   *Taiwan Geographic Information Conference*  
   [Paper](https://drive.google.com/file/d/1KBwXkAsi8dmpPls-F3Lp8rqz5oc2JKWW/view){: .btn} 
 
-<br/>
-
 **Non-refereed project reports:**
 
 **Exploring the spatial allocation of testing stations using supply-demand relations: A Case Study of New Taipei City**
   **Chou, C. C.**
   *College Student Research Grant, National Science and Technology Council*
 
-<br/>  -->
+<br/>
 
 
