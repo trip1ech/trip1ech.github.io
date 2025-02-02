@@ -86,6 +86,10 @@ img::-moz-selection {
 
 img {
   max-width: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0.2rem;
 }
 
 .disqus-comments {
@@ -686,7 +690,7 @@ td.gutter {
 }
 
 .caption {
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #777;
   text-align: center;
   font-style: italic;
