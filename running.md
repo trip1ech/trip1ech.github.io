@@ -5,9 +5,9 @@ title: Running
 
 ### 🏃Current Personal Records  
 
-- **5000m:** 16:52 *(unofficial)*  
-- **10,000m:** 35:29 *(unofficial)*  
-- **Half Marathon (21.0975km):** 1:16:02 *(PB)*  
+- **5000m:** 16:52 
+- **10,000m:** 35:29   
+- **Half Marathon (21.0975km):** 1:16:02   
 
 ---
 
