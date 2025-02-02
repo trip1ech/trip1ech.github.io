@@ -563,8 +563,8 @@ footer .theme-by {
 
 .caption {
   text-align: center;
-  font-size: 14px;
-  padding: 10px;
+  font-size: 20px;
+  padding: 3px;
   font-style: italic;
   margin: 0;
   display: block;
@@ -689,10 +689,3 @@ td.gutter {
   margin-bottom: 30px;
 }
 
-.caption {
-  font-size: 1rem;
-  color: #777;
-  text-align: center;
-  font-style: italic;
-  margin-top: 0.1rem;
-}
