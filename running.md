@@ -3,6 +3,8 @@ layout: page
 title: Running
 ---
 
+Follow me on  <a href="https://www.strava.com/athletes/12124413" target="_blank">Strava</a>!
+
 ### 🏃Current Personal Records  
 
 - **5000m:** 16:52 

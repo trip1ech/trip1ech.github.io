@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-You can also browse my <a href="https://medium.com/@Chingchichou" target="_blank">Medium</a>.
+You can also see my <a href="https://medium.com/@Chingchichou" target="_blank">Medium</a>.
 
 ## Latest Posts
 
