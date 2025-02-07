@@ -15,7 +15,7 @@ Follow me on  <a href="https://www.strava.com/athletes/12124413" target="_blank"
 
 ### 🏁 Racing Plans   
 
-#### **Season 2025** *(Already registered races)*
+#### **Season 2025** (Already registered races)
 
 - **Generali Genève Marathon (日內瓦馬拉松)**  
   **Distance:** 21.0975km  

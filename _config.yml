@@ -24,6 +24,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
+  Projects: "projects"
   Publications: "publications"
   Blog: "blog"
   Running: "running"

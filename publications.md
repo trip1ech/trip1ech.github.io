@@ -32,7 +32,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=ncRpl5
 - **Predicting the hotspots of COVID-19 outbreak by Telecom data - Take Taipei City and New Taipei City as an example.**  
   **Chou, C. C.**, Lin, H. H., Chen, K. J., Chen, R. C., Chan, T. C.  
   *Taiwan Geographic Information Conference*  
-  (Best Paper Award)
+  (Best Paper Award)  
   [Paper](https://drive.google.com/file/d/1KBwXkAsi8dmpPls-F3Lp8rqz5oc2JKWW/view){: .btn} 
 
 ---
