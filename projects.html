@@ -1,41 +1,40 @@
 ---
+layout: projects
 title: Projects
+css: "/assets/css/main.css"
+
 ---
 
 <p> Here's the list of my previous projects</p>
 
 <div class="posts-list">
-	{% for post in posts %}
-	<article class="post-preview">
-  
-	  {%- capture thumbnail -%}
-		{% if post.thumbnail-img %}
-		  {{ post.thumbnail-img }}
-		{% elsif post.cover-img %}
-		  {% if post.cover-img.first %}
-			{{ post.cover-img[0].first.first }}
-		  {% else %}
-			{{ post.cover-img }}
-		  {% endif %}
-		{% else %}
-		{% endif %}
-	  {% endcapture %}
-	  {% assign thumbnail=thumbnail | strip %}
-  
-	  {% if site.feed_show_excerpt == false %}
-	  {% if thumbnail != "" %}
-	  <div class="post-image post-image-normal">
-		<a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-		  <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-		</a>
-	  </div>
-	  {% endif %}
-	  {% endif %}
-  
-	  <a href="{{ post.url | absolute_url }}">
-		<h2 class="post-title">{{ post.title }}</h2>
-  
-		{% if post.subtitle %}
+	{% for post in site.posts %}
+        {% if post.categories contains "projects" %}
+            <article class="post-preview">
+            <a href="{{ post.url | absolute_url }}">
+                <h2 class="post-title">{{ post.title }}</h2>
+                {% if post.subtitle %}
+                <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                {% endif %}
+            </a>
+            <p class="post-meta">
+                {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+                Posted on {{ post.date | date: date_format }}
+            </p>
+            {% if post.thumbnail-img %}
+            <div class="post-image post-image-normal">
+                <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+                <img src="{{ post.thumbnail-img | absolute_url }}" alt="Post thumbnail">
+                </a>
+            </div>
+            {% endif %}
+            </article>
+        {% endif %}
+    {% endfor %}
+    
+    <a href="{{ post.url | absolute_url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+        {% if post.subtitle %}
 		  <h3 class="post-subtitle">
 		  {{ post.subtitle }}
 		  </h3>
