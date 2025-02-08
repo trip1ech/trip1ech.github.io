@@ -1,7 +1,48 @@
 ---
 layout: page
 title: Projects
-use-site-title: true
+permalink: /projects/
 ---
 
-<p> Here's the list of my previous projects</p>
+<div class="projects-list">
+  {% for post in site.posts %}
+    <div class="project-item">
+      {% if post.thumbnail-img %}
+        <div class="project-thumbnail">
+          <a href="{{ post.url | absolute_url }}">
+            <img src="{{ post.thumbnail-img | absolute_url }}" alt="{{ post.title }}">
+          </a>
+        </div>
+      {% endif %}
+
+      <div class="project-content">
+        <a href="{{ post.url | absolute_url }}">
+          <h2 class="project-title">{{ post.title }}</h2>
+        </a>
+        
+        {% if post.subtitle %}
+          <p class="project-subtitle"><i>{{ post.subtitle }}</i></p>
+        {% endif %}
+        
+        <p class="project-meta">
+          Posted on <em>{{ post.date | date: "%B %d, %Y" }}</em>
+        </p>
+
+        <p class="project-excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 30 }} 
+          <a href="{{ post.url | absolute_url }}" class="read-more">[Read More]</a>
+        </p>
+<!--
+        {% if post.tags %}
+          <p class="project-tags">
+            Tags: 
+            {% for tag in post.tags %}
+              <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </p>
+          -->
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
