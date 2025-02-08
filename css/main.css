@@ -707,7 +707,7 @@ td.gutter {
 }
 
 .project-thumbnail {
-  flex: 0 0 100px; /* 縮圖固定寬度 */
+  flex: 0 0 130px; /* 縮圖固定寬度 */
 }
 
 .project-thumbnail img {
