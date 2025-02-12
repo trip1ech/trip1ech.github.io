@@ -3,13 +3,15 @@ layout: page
 title: Running
 ---
 
+I am a recreational runner. Previously, I was a member of NTU Athletics and represented NTU in 10,000m at the National Intercollegiate Games 4 times. I was also a coach for the EMBA Running Club at National Chengchi University.
+
 Follow me on  <a href="https://www.strava.com/athletes/12124413" target="_blank">Strava</a>!
 
 ### 🏃Current Personal Records  
 
-- **5000m:** 16:52 
-- **10,000m:** 35:29   
-- **Half Marathon (21.0975km):** 1:16:02   
+- **5000m:** 16:52 (08.2024)
+- **10,000m:** 35:29 (09.2024)
+- **Half Marathon:** 1:16:02 (10.2024)
 
 ---
 
