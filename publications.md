@@ -39,7 +39,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=ncRpl5
 
 **Non-refereed project reports:**
 
-**Exploring the spatial allocation of testing stations using supply-demand relations: A Case Study of New Taipei City**
+- **Exploring the spatial allocation of testing stations using supply-demand relations: A Case Study of New Taipei City.**  
   **Chou, C. C.**  
   *College Student Research Grant, National Science and Technology Council*
 

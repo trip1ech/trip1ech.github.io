@@ -19,6 +19,10 @@ Phone: +41 76 221 89 17
 **EPFL (Swiss Federal Institute of Technology, Lausanne)**  
 M.S. in Digital Humanities (09.2024 - Present)  
 
+- Also received offers for DS-related programs from Imperial / Umich / NUS..
+
+- Course: Applied Data Analysis, Machine Learning for DH, Foundations of DH, Image Processing for Earth Observation, Fundamentals of electric circuits and systems
+
 **National Taiwan University**  
 B.S. in Geography - Geoinformation Track (09.2019 - 06.2023)  
 
