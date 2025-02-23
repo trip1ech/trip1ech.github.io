@@ -208,5 +208,5 @@ gems:
 
 theme: 
 
-plugins:
+plugins_dir:
   - jekyll-sitemap
