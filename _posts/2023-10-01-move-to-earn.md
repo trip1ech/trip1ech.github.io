@@ -6,10 +6,10 @@ date: 2023-10-01 11:00:00 -0400
 permalink: /projects/move2earn/
 ---
 
+The Move to Earn (M2E) Sport Data Hackathon was a corporate competition focused on sport technology, promoting cross-industry collaboration and data altruism. 
+**I represented H2U as a finalist, earning a Distinction Award and a prize of 500,000 TWD.**
+
 ![](/static/img/M2E/m2e-photo-big.png)
-
-
-The Move to Earn (M2E) Sport Data Hackathon was a corporate competition focused on sport technology, promoting cross-industry collaboration and data altruism. **I represented H2U as a finalist, earning a Distinction Award and a prize of 500,000 TWD.**
 
 In an effort to promote outdoor activity and encourage data altruism, I organized a sport data hackathon that leveraged hiking app data to track users’ movements. This project, titled “探索制霸 368 鄉鎮” (Walking and Explore the 368 Townships in Taiwan), aimed to incentivize participants to explore different regions of Taiwan by gamifying hiking and walking activities. By rewarding users with travel vouchers, we successfully motivated them to venture into new areas and contribute valuable movement data for research.
 
