@@ -6,8 +6,7 @@ date: 2023-10-01 11:00:00 -0400
 permalink: /projects/move2earn/
 ---
 
-The Move to Earn (M2E) Sport Data Hackathon was a corporate competition focused on sport technology, promoting cross-industry collaboration and data altruism. 
-**I represented H2U as a finalist, earning a Distinction Award and a prize of 500,000 TWD.**
+The Move to Earn (M2E) Sport Data Hackathon was a corporate competition focused on sport technology, promoting cross-industry collaboration and data altruism.As a product manager intern, **I had the unique opportunity to represent H2U in this competition. I successfully advanced to the finalist stage and earned a Distinction Award along with a prize of 500,000 TWD.**
 
 ![](/static/img/M2E/m2e-photo-big.png)
 
