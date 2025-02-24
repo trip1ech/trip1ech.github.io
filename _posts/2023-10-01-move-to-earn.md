@@ -1,7 +1,7 @@
 ---
 title: Move to Earn Sport Data Hackathon - Hiking GPS Data Altruism
 thumbnail-img: /static/img/M2E/M2E-photo.jpeg
-share-img: /static/img/M2E/M2E-photo.jpeg
+share-img: https://trip1ech.github.io/static/img/M2E/m2e-photo-big.png
 date: 2023-10-01 11:00:00 -0400
 permalink: /projects/move2earn/
 ---
