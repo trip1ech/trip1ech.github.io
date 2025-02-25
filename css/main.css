@@ -784,14 +784,14 @@ td.gutter {
 
 @media (max-width: 1024px) {
   .footer-globe-container {
-    left: 15%; /* 調整小螢幕時的位置 */
+    left: 10%; /* 調整小螢幕時的位置 */
     width: 80px; /* 手機版縮小 */
   }
 }
 
 @media (max-width: 768px) {
   .footer-globe-container {
-    left: 10%; /* 在手機上再稍微調整 */
+    left: 5%; /* 在手機上再稍微調整 */
     width: 80px; /* 手機版更小 */
   }
 }
