@@ -791,7 +791,7 @@ td.gutter {
 
 @media (max-width: 768px) {
   .footer-globe-container {
-    left: 10%; /* 在手機上再稍微調整 */
+    left: 7%; /* 在手機上再稍微調整 */
     width: 80px; /* 手機版更小 */
   }
 }
