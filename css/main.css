@@ -766,3 +766,19 @@ td.gutter {
   border-radius: 5px;
   margin-right: 5px;
 }
+
+
+.footer-globe-container {
+  position: absolute;
+  left: 32%;
+  bottom: 50px; /* 確保它不會壓到 footer 內容 */
+  width: 130px;  /* 調整大小 */
+  height: 130px; /* 調整大小 */
+  z-index: 10; /* 確保不會被擋住 */
+}
+
+#clustr_globe {
+  max-width: 100%;
+  height: auto;
+}
+
