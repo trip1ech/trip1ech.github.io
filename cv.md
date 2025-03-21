@@ -21,7 +21,7 @@ M.S. in Digital Humanities (09.2024 - Present)
 
 - Also received offers for DS-related programs from Imperial / Umich / NUS..
 
-- Course: Applied Data Analysis, Machine Learning for DH, Foundations of DH, Image Processing for Earth Observation, Fundamentals of electric circuits and systems
+- Coursework: Modern NLP, Network Machine Learning, Image Analysis and Pattern Recognition, Machine Learning for DH, Image Processing for Earth Observation, Transportation Network Modeling and Analysis
 
 **National Taiwan University**  
 B.S. in Geography - Geoinformation Track (09.2019 - 06.2023)  
@@ -36,22 +36,30 @@ B.S. in Geography - Geoinformation Track (09.2019 - 06.2023)
 **Center for GIS, RCHSS, Academia Sinica**  
 Research Intern (07.2022 - 06.2023)  
 
-- Utilized spatiotemporal statistics and telecom mobility metrics, including centrality, structural equivalence, and footprint similarity, to assess policy intervention effectiveness and predict hotspots during the COVID-19 outbreak in 2021.  
+- Conducted research on mobility network from telecom data and spatio-temporal epidemic statistics to evaluate the effectiveness of policy interventions and predict hotspots in 2021 COVID-19 outbreak [1][2][3]
 
-- Simulated spatiotemporal epidemic progression by the SEPIAQR infectious disease model and mobility data, with proposed resource allocation scenarios achieving 20% fewer confirmed cases with optimized testing resource usage.
+- Completed a funded research fellowship project: Proposed an optimal spatial distribution of testing station during COVID-19 outbreak by SEPIAQR epidemic simulations and mobility network, reducing projected confirmed cases by 20% [5]
 
 **H2U Corporation**  
 Digital Product Manager (09.2022 - . 12.2023) 
 
-- Transformed digital products into **subscription-based** services by launching a gamified hiking route-tracking service with 100K+ monthly active users, combining offline maps with local cultural and ecological features.  
+- Utilized 1M+ anonymized users’ hiking GPS trajectories to detect high-risk trail segments by analyzing lost patterns, enabling the development of **data-driven hiking risk map** in Taiwan
 
-- Collaborated with the Ministry of Digital Affairs to promote a public sports data platform, and won over NT$500K in Move to Earn sports data hackathon.
+- Transformed HikingNotes, a hiking app with 100K+ monthly users, into subscription-based service by conceptualizing new features including user footprint analysis and a walking-time-based hiking network map
+
+- Launched a 6 month gamified hiking initiative on a newly designed digital platform with 100K+ participants, represented H2U in a Sport Data Hackathon, and **won a TWD$500K prize**
 
 Data Analyst Intern (07.2022 - 09.2022) 
 
-- Developed a spatiotemporal data analysis tool, **Hiking Tracks Explorer**, featuring a hiking heatmap and trail popularity prediction using user GPS data and web-crawled GPS data.
+- Developed a spatiotemporal data analysis tool, **Hiking Tracks Explorer**, featuring a hiking heatmap and trail popularity prediction using user GPS data and web-crawled GPS data
 
-- Built online dashboards using Google Analytics and Looker Studio, providing insights to optimize advertising strategy.
+- Built online dashboards using Google Analytics and Looker Studio, providing insights to optimize advertising strategy
+
+**Lab for Cartography & Multi-media, NTU**  
+
+- Compiled and analyzed research findings from a 2018 survey on place name recognition, evaluating the effectiveness of public infrastructure naming as a preservation strategy and assessing public awareness of place name meanings [3]
+
+- Assisted in the revamping of the Place Names Information Service website in Taiwan
 
 ### Publications
 ---
