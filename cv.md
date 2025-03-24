@@ -5,7 +5,7 @@ css: /css/cv.css
 class: cv-page
 ---
 
-You can view my CV in [PDF](CV-ccchou.pdf) file or see my [LinkedIn](http://www.linkedin.com/in/ching-chi-chou-31977b185).
+You can view my CV in [PDF](CV-ccchou.pdf) file (recommended) or see my [LinkedIn](http://www.linkedin.com/in/ching-chi-chou-31977b185). Connections in all fields are welcomed.
 
 ### Contact
 ---  
@@ -43,7 +43,7 @@ Research Intern (07.2022 - 06.2023)
 **H2U Corporation**  
 Digital Product Manager (09.2022 - . 12.2023) 
 
-- Utilized 1M+ anonymized users’ hiking GPS trajectories to detect high-risk trail segments by analyzing lost patterns, enabling the development of **data-driven hiking risk map** in Taiwan
+- Utilized 1M+ anonymized users’ hiking GPS trajectories to detect high-risk trail segments by analyzing lost patterns, enabling the development of data-driven hiking risk map in Taiwan
 
 - Transformed HikingNotes, a hiking app with 100K+ monthly users, into subscription-based service by conceptualizing new features including user footprint analysis and a walking-time-based hiking network
 
@@ -51,7 +51,7 @@ Digital Product Manager (09.2022 - . 12.2023)
 
 Data Analyst Intern (07.2022 - 09.2022) 
 
-- Developed a spatiotemporal data analysis tool, **Hiking Tracks Explorer**, featuring a hiking heatmap and trail popularity prediction using user GPS data and web-crawled GPS data
+- Developed a spatiotemporal data analysis tool, Hiking Tracks Explorer, featuring a hiking heatmap and trail popularity prediction using user GPS data and web-crawled GPS data
 
 - Built online dashboards using Google Analytics and Looker Studio, providing insights to optimize advertising strategy
 
@@ -106,25 +106,28 @@ Data Analyst Intern (07.2022 - 09.2022)
 ### Extracurricular Activities
 ---
 
-**Compulsory Military Service, Taiwan Army**  (Dec. 2023 - Apr. 2024)
+**Compulsory Military Service, Taiwan Army**  (12.2023 - 04.2024)
 
 **International Companions for Learning** (03.2023 - 06.2023)
 
 - Cooperated with an Indonesian companion to help elementary students in remote areas.
 
-**Coach in EMBA Running Club, National Chengchi University** (Sep. 2022 - Dec. 2023  )
+**Coach in EMBA Running Club, National Chengchi University** (09.2022 - 12.2023)
 
 - Arranged customized workout schedules for 40+ club members and won multiple road running events in Taiwan.
 
 ### Skills
 ---
 
-- **Languages**: Mandarin (native), English (IELTS 7.5 / CEFR C1), French (A2), Japanese (A2)
+**Languages**
+- Taiwanese Mandarin: Native / English: IELTS 7.5 (CEFR C1) / French (A2) / Japanese (A2)
 
-- **Data Science:** Python/Pytorch, R, SQL, AWS
+**Data Science** 
+- Programming: Python (PyTorch, scikit-learn, OpenCV, pandas), R, SQL, C++, React.js, Mapbox GL JS, Leaflet.js
+- Platforms/Tools: AWS, MySQL, PostgreSQL, Git/GitHub, Tableau, Google Analytics, Looker Studio, Google Earth Engine
+- Software: QGIS, ArcGIS Pro, NetLogo, Metashape, Stella Architect
+- Others: LaTex, Figma, CapCut
 
-- **Software Development:** C++, React.js, Node.js 
-
-- **GIS-related:** QGIS, ArcGIS, NetLogo, Stella Architect, Metashape,Mapbox-gl.js, Leaflet.js, Google Earth Engine
-
-- **Tools:** Git/Github, LaTex, Tableau, Power BI, Looker Studio, Google Analytics, Figma
+**Athletics**
+- Running coach (1.5 years experience at EMBA Running Club, National Chengchi University)
+- Personal Bests: 5000m – 16:52, 10,000m – 35:29, Half Marathon – 1:16:02 (Top 0.36% according to runrepeat.com)
