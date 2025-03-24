@@ -45,7 +45,7 @@ Digital Product Manager (09.2022 - . 12.2023)
 
 - Utilized 1M+ anonymized users’ hiking GPS trajectories to detect high-risk trail segments by analyzing lost patterns, enabling the development of **data-driven hiking risk map** in Taiwan
 
-- Transformed HikingNotes, a hiking app with 100K+ monthly users, into subscription-based service by conceptualizing new features including user footprint analysis and a walking-time-based hiking network map
+- Transformed HikingNotes, a hiking app with 100K+ monthly users, into subscription-based service by conceptualizing new features including user footprint analysis and a walking-time-based hiking network
 
 - Launched a 6 month gamified hiking initiative on a newly designed digital platform with 100K+ participants, represented H2U in a Sport Data Hackathon, and **won a TWD$500K prize**
 
@@ -106,6 +106,8 @@ Data Analyst Intern (07.2022 - 09.2022)
 ### Extracurricular Activities
 ---
 
+**Compulsory Military Service, Taiwan Army**  (Dec. 2023 - Apr. 2024)
+
 **International Companions for Learning** (03.2023 - 06.2023)
 
 - Cooperated with an Indonesian companion to help elementary students in remote areas.
@@ -114,14 +116,15 @@ Data Analyst Intern (07.2022 - 09.2022)
 
 - Arranged customized workout schedules for 40+ club members and won multiple road running events in Taiwan.
 
-**Compulsory Military Service, Taiwan Army**  (Dec. 2023 - Apr. 2024)
-
 ### Skills
 ---
-- **Data Science:** Python/Pytorch, R, SQL
 
-- **Software Development:** C++, React.js, Node.js
+- **Languages**: Mandarin (native), English (IELTS 7.5 / CEFR C1), French (A2), Japanese (A2)
+
+- **Data Science:** Python/Pytorch, R, SQL, AWS
+
+- **Software Development:** C++, React.js, Node.js 
 
 - **GIS-related:** QGIS, ArcGIS, NetLogo, Stella Architect, Metashape,Mapbox-gl.js, Leaflet.js, Google Earth Engine
 
-- **Tools:** Git, LaTex, Tableau, Power BI, Looker Studio, Google Analytics, Figma
+- **Tools:** Git/Github, LaTex, Tableau, Power BI, Looker Studio, Google Analytics, Figma
