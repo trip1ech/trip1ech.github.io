@@ -15,7 +15,6 @@ tags:
 pretty_table: true
 toc:
   sidebar: left
-
 ---
 
 Have you ever been to Venice? Today, researchers study urban mobility using population-based simulations, telecommunication data, or GPS trajectories. However, our research offers a unique perspective by examining human mobility in 18th-century Venice. We used the Catastici—a Venetian register that documents the ownership, division, and use of land parcels in 1740—to model urban mobility nearly 300 years ago.
@@ -26,7 +25,6 @@ If you're interested, you can view the project details in this [Project Wiki Pag
 
 You can find my codes in this [GitHub Repository](https://github.com/trip1ech/venice-mobility-1740).
 
-
 #### Origin–Destination Human Mobility Network
 
 To explore the transportation routes and the potential usage of ‘traghetti’ in Venice during 1740, we began by analyzing the spatial distribution of land use. The catastici provides information about property functions, which we classified into meaningful categories to identify residential, commercial, and transport-related areas.
@@ -35,25 +33,22 @@ To explore the transportation routes and the potential usage of ‘traghetti’ 
 
 We systematically categorized properties based on keywords extracted from the parcel function. This classification forms the foundation for understanding Venice’s land use patterns and identifying the locations of homes, workplaces, and ‘‘traghetti’’ stations, essential for simulating human mobility.
 
-
 | :----------------------------------: | :--------------------------------: | :--------------------------------------: |
-| **Category**                           |    **Keywords**                       |   **Description**                         |
-| Residential                        | casa, appartamento, casetta        | Houses, apartments, residences         |
-| Commercial / Retail                | bottega, magazen                   | Shops, warehouses, commercial buildings|
-| Mixed Use (Residential + Commerce) | casa e bottega                     | Combined living + commerce properties  |
-| Religious / Institutional          | chiesa, religious, institution…    | Churches, religious, institutional…    |
-| Traghetto / Squero                 | traghetto, liberta, squero, gondola| Ferry crossings (*traghetti*)…         |
-| Unknown / Other                    | —                                  | Entries not matching any of the above  |
+| **Category** | **Keywords** | **Description** |
+| Residential | casa, appartamento, casetta | Houses, apartments, residences |
+| Commercial / Retail | bottega, magazen | Shops, warehouses, commercial buildings|
+| Mixed Use (Residential + Commerce) | casa e bottega | Combined living + commerce properties |
+| Religious / Institutional | chiesa, religious, institution… | Churches, religious, institutional… |
+| Traghetto / Squero | traghetto, liberta, squero, gondola| Ferry crossings (_traghetti_)… |
+| Unknown / Other | — | Entries not matching any of the above |
 
 <br>
 
 The inclusion of the ‘'’Mixed Use’’’ category reflects the tendency of Venetian residents to combine living and working spaces. Meanwhile, the ‘'’Traghetti/Squero’’’ category highlights the importance of ferries and boatyards in Venice’s unique transport system.
 
-
 ![]({{ "/assets/img/Venice-1740/Poi-classification.png" | relative_url }})
 
 The classification result highlights the dense residential areas in the northern and southern regions, with commercial hubs concentrated in the central areas. The traghetti locations emphasize the city’s reliance on waterborne transportation, complementing the street networks to facilitate movement and trade.
-
 
 #### Agent Definition
 
@@ -79,8 +74,8 @@ By the links between agents’ homes and workplaces, we can observe that the cen
 
 Furthermore, in the Ghetto area (Red regions above), we observe a significant number of intra-regional OD pairs, indicating localized movement within this district. This aligns with the historical context, as the Jewish population was confined to the Ghetto during specific hours of the day.
 
-
 #### Network Geometry Engineering
+
 To simulate how agents traveled between home and work locations, we utilized the Sommarioni 1808 road network provided by the Venice Time Machine. Although this dataset does not precisely align with the Catastici 1740 dataset the absence of road network data from 1740 necessitated its use. A comparison with the Lodovico Ughi map (1729) revealed that the road networks were largely consistent, validating its suitability for this analysis.
 
 Challenges in Initial Network Data
@@ -97,7 +92,7 @@ To address these issues and ensure a usable road network, we applied a series of
 - Buffering and Snapping Tools: We used tools available in the ‘'’QGIS GRASS extension’’’ to connect nearby, but geometrically disjointed, segments.
 - Manual Editing: Where automated methods failed, we manually edited network geometries to resolve inconsistencies and ensure logical connectivity.
 - Validation: After each step, we validated the network for errors and redundancies, ensuring no excessive or artificial connections were introduced.
-After completing a series of geometry engineering procedures using GIS software, we obtained a fully connected street network of Venice. This process ensured that all segments are topologically correct and fully integrated, enabling seamless movement across the network.
+  After completing a series of geometry engineering procedures using GIS software, we obtained a fully connected street network of Venice. This process ensured that all segments are topologically correct and fully integrated, enabling seamless movement across the network.
 
 ![]({{ "/assets/img/Venice-1740/Network-road.png" | relative_url }})
 
@@ -126,7 +121,6 @@ We assess the functional role of the traghetti by comparing traffic flow under t
 
 By analyzing the flow differences between these two scenarios, we were able to better understand the impact and importance of the traghetti in Venice’s transportation system during the 18th century.
 
-
 ##### 1. Using the street network only
 
 ![]({{ "/assets/img/Venice-1740/Road-traffic.png" | relative_url }})
@@ -134,7 +128,6 @@ By analyzing the flow differences between these two scenarios, we were able to b
 Streets with a high concentration of shops and commercial properties, such as Ruga Vecchia San Giovanni (known for its activity even today), tend to experience significant traffic and become bustling centers of activity.
 
 When agents are restricted to using only the street network, the connectivity of bridges plays a crucial role. A substantial amount of traffic is observed in areas near bridges, as these crossings provide the only way for individuals to traverse canals. In particular, the Ponte di Rialto, one of the most prominent bridges in Venice, becomes an exceptionally busy hub of movement.
-
 
 ##### 2. Allowing agents to travel via both the road network and the traghetti network
 

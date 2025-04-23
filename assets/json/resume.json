@@ -20,7 +20,9 @@
       "studyType": "Master of Science",
       "startDate": "2024-09-01",
       "endDate": "2026-06-30",
-      "courses": ["Coursework: Modern NLP, Network Machine Learning, Image Analysis and Pattern Recognition, Machine Learning for DH, Image Processing for Earth Observation, Transportation Network Modeling and Analysis"]
+      "courses": [
+        "Coursework: Modern NLP, Network Machine Learning, Image Analysis and Pattern Recognition, Machine Learning for DH, Image Processing for Earth Observation, Transportation Network Modeling and Analysis"
+      ]
     },
     {
       "institution": "National Taiwan University",
@@ -28,7 +30,10 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-09-01",
       "endDate": "2023-06-30",
-      "courses": ["Coursework: Machine Learning with Python, Web APP development, Operating Systems, Spatial Database Systems, Network Data Analysis and Models, UAS Mapping and Image Interpretation, Geospatial Simulation, Remote Sensing", "Specialization Program in Geographic Data Science (GPA 4.18/4.3 in the program)"]
+      "courses": [
+        "Coursework: Machine Learning with Python, Web APP development, Operating Systems, Spatial Database Systems, Network Data Analysis and Models, UAS Mapping and Image Interpretation, Geospatial Simulation, Remote Sensing",
+        "Specialization Program in Geographic Data Science (GPA 4.18/4.3 in the program)"
+      ]
     }
   ],
   "work": [
@@ -37,21 +42,30 @@
       "position": "Research Intern",
       "startDate": "2021-07-01",
       "endDate": "2023-12-28",
-      "highlights": ["Conducted research on mobility network from telecom data and spatio-temporal epidemic statistics to evaluate the effectiveness of policy interventions and predict hotspots in 2021 COVID-19 outbreak", "Completed a funded research fellowship project: Proposed an optimal spatial distribution of testing station during COVID-19 outbreak by SEPIAQR epidemic simulations and mobility network, reducing projected confirmed cases by 20%"]
+      "highlights": [
+        "Conducted research on mobility network from telecom data and spatio-temporal epidemic statistics to evaluate the effectiveness of policy interventions and predict hotspots in 2021 COVID-19 outbreak",
+        "Completed a funded research fellowship project: Proposed an optimal spatial distribution of testing station during COVID-19 outbreak by SEPIAQR epidemic simulations and mobility network, reducing projected confirmed cases by 20%"
+      ]
     },
     {
       "name": "H2U Corporation",
       "position": "Digital Product Manager Intern",
       "startDate": "2022-07-01",
       "endDate": "2023-12-27",
-      "highlights": ["Led the product transoformation of HikingNotes, a hiking app with 100K+ monthly users, into subscription-based service by conceptualizing new features including user footprint analysis and a walking-time-based hiking network information","Launched a 6 month gamified hiking initiative on a newly designed digital platform with 100K+ participants, represented H2U in a Sport Data Hackathon, and won a TWD$500K prize"]
+      "highlights": [
+        "Led the product transoformation of HikingNotes, a hiking app with 100K+ monthly users, into subscription-based service by conceptualizing new features including user footprint analysis and a walking-time-based hiking network information",
+        "Launched a 6 month gamified hiking initiative on a newly designed digital platform with 100K+ participants, represented H2U in a Sport Data Hackathon, and won a TWD$500K prize"
+      ]
     },
     {
       "name": "Lab for Cartography & Multi-media, NTU",
       "position": "Undergraduate Research Assistant",
       "startDate": "2020-07-01",
       "endDate": "2021-06-30",
-      "highlights": ["Compiled and analyzed research findings from a 2018 survey on place name recognition, evaluating the effectiveness of public infrastructure naming as a preservation strategy and assessing public awareness of place name meanings", "Assisted in the revamping of the Place Names Information Service website in Taiwan"]
+      "highlights": [
+        "Compiled and analyzed research findings from a 2018 survey on place name recognition, evaluating the effectiveness of public infrastructure naming as a preservation strategy and assessing public awareness of place name meanings",
+        "Assisted in the revamping of the Place Names Information Service website in Taiwan"
+      ]
     }
   ],
   "publications": [
@@ -110,81 +124,39 @@
     {
       "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "R",
-        "SQL",
-        "C++"
-      ]
+      "keywords": ["Python", "JavaScript", "HTML", "CSS", "R", "SQL", "C++"]
     },
     {
       "name": "Frameworks and Libraries",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "Sik-learn",
-        "Hugging Face",
-        "OpenCV",
-        "Pandas",
-        "NumPy"
-      ]
+      "keywords": ["PyTorch", "Sik-learn", "Hugging Face", "OpenCV", "Pandas", "NumPy"]
     },
     {
       "name": "Tools and Technologies",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "PostgreSQL",
-        "AWS"
-      ]
+      "keywords": ["Git", "GitHub", "PostgreSQL", "AWS"]
     },
     {
       "name": "GIScience",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "QGIS",
-        "ArcGIS Pro",
-        "Leaflet.js",
-        "Mapbox GL JS",
-        "NetLogo",
-        "Google Earth Engine"
-      ]
+      "keywords": ["QGIS", "ArcGIS Pro", "Leaflet.js", "Mapbox GL JS", "NetLogo", "Google Earth Engine"]
     },
     {
       "name": "Business Intelligence",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Tableau",
-        "Power BI",
-        "Google Data Studio",
-        "Google Analytics"
-      ]
+      "keywords": ["Tableau", "Power BI", "Google Data Studio", "Google Analytics"]
     },
     {
       "name": "Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Chinese (Native)",
-        "English (Fluent)",
-        "French (Elementary)",
-        "Japanese (Elementary)"]
-      }
-    ],
+      "keywords": ["Chinese (Native)", "English (Fluent)", "French (Elementary)", "Japanese (Elementary)"]
+    }
+  ],
   "interests": [
     {
       "name": "Athletics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "5000m: 16:52",
-        "10,000m: 35:27",
-        "Half Marathon: 1:16:02"
-      ]
+      "keywords": ["5000m: 16:52", "10,000m: 35:27", "Half Marathon: 1:16:02"]
     }
   ]
 }
-
-

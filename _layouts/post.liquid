@@ -60,9 +60,7 @@ layout: default
 
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
-      <div id="table-of-contents">
-        {#% toc %}
-      </div>
+      <div id="table-of-contents">{#% toc %}</div>
       <hr>
     {% endif %}
     <div id="markdown-content">
@@ -76,9 +74,7 @@ layout: default
 
   {% if page.related_publications %}
     <h2>References</h2>
-    <div class="publications">
-      {#% bibliography --group_by none --cited_in_order %#}
-    </div>
+    <div class="publications">{#% bibliography --group_by none --cited_in_order %#}</div>
   {% endif %}
 
   {% if site.related_blog_posts and site.related_blog_posts.enabled %}
