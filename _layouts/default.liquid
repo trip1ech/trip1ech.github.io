@@ -16,7 +16,12 @@
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="
+    {% if site.navbar_fixed %}fixed-top-nav{% endif %}
+    {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}
+    {% if page.layout == 'cv' %}cv-page{% endif %}
+    {% if page.permalink == '/about/' %}about-page{% endif %}
+  ">
     <!-- Header -->
     {% include header.liquid %}
 
@@ -46,6 +51,16 @@
         {{ content }}
       {% endif %}
     </div>
+    
+    <!-- ClustrMaps globe -->
+    {% if page.permalink == '/' %}
+    <!-- ClustrMaps globe (only for About page) -->
+    <div class="globe-widget-fixed">
+      <script async defer id="clstr_globe"
+        src="//clustrmaps.com/globe.js?d=r1G9CzUjujYKdcLF7fSNF0vuqtIIQk8w2V4Cfo4ixMs">
+      </script>
+    </div>
+    {% endif %}
 
     <!-- Footer -->
     {% include footer.liquid %}

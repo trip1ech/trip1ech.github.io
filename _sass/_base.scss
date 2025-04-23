@@ -197,8 +197,10 @@ ul.task-list input[type="checkbox"] {
 
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 2px;
+    font-family: "Roboto",sans-serif;
+    font-style: italic !important;
+    //font-family: monospace;
 
     p {
       display: inline-block;
@@ -213,6 +215,10 @@ ul.task-list input[type="checkbox"] {
 
 .profile.float-left {
   margin-right: 1rem;
+}
+
+.profile figure {
+  margin-bottom: 0.25rem !important;
 }
 
 @media (min-width: 576px) {
@@ -873,7 +879,7 @@ footer.sticky-bottom {
 
 // Rouge Color Customization
 figure.highlight {
-  margin: 0 0 1rem;
+  margin: 0 0 0.5rem;
 }
 
 pre {

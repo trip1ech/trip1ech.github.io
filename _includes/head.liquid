@@ -31,6 +31,16 @@
   href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
 >
 
+<!-- ─── Add Google Fonts ──────────────────────────────────────── -->
+<link
+  href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&display=swap"
+  rel="stylesheet"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap"
+  rel="stylesheet"
+/>
+
 <!-- Code Syntax Highlighting -->
 <link
   defer
@@ -187,3 +197,18 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+<script>
+// 等页面加载完再执行
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".publications .author").forEach(div => {
+    // 提取当前 HTML
+    let html = div.innerHTML;
+    // 替换“Ching‑Chi Chou”（\s* 能同时匹配空格和 ）为带 <span> 的版本
+    div.innerHTML = html.replace(
+      /Ching-Chi\s*Chou/g,
+      '<span class="my-name">Ching‑Chi Chou</span>'
+    );
+  });
+});
+</script>

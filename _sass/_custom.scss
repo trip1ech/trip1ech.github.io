@@ -1,0 +1,118 @@
+/* ─── 1. DEFAULT TYPOGRAPHY: NON–CV PAGES ───────────────── */
+
+// Body text on *all* non–CV pages: Lora
+body:not(.cv-page) {
+  font-family: 'Lora', serif;
+}
+
+// Headings + .post-title on non–CV pages: Roboto
+body:not(.cv-page) h1,
+body:not(.cv-page) h2,
+body:not(.cv-page) h3,
+body:not(.cv-page) h4,
+body:not(.cv-page) h5,
+body:not(.cv-page) h6,
+body:not(.cv-page) .post-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+// If you have a `.desc` under your header you want in Roboto:
+body:not(.cv-page) .post-description,
+body:not(.cv-page) .desc {
+  font-family: 'Roboto', sans-serif;
+}
+
+article.post-content > #markdown-content h4 {
+  font-family: 'Lora', serif !important;
+  font-weight: 800 !important;
+  font-size: 1.25rem !important;
+}
+
+header .navbar-brand.title,
+.navbar .nav-link {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+.post-title,
+a.post-title {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+/* ─── 2. CV‐PAGE TYPOGRAPHY ───────────────────────────── */
+
+// Everything on your CV page in Roboto
+body.cv-page {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+body.cv-page h1,
+body.cv-page h2,
+body.cv-page h3,
+body.cv-page h4,
+body.cv-page h5,
+body.cv-page h6 {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 200 !important;
+}
+
+body.cv-page h3 {
+  font-size: 1.25rem;
+  font-weight: 500 !important;
+}
+
+body.cv-page h6 {
+  font-size: 0.95rem;
+  font-weight: 500 !important;
+}
+
+// And your CV card titles (they’re usually h3.card-title)
+body.cv-page .card-title {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+body.cv-page .items li {
+  font-size: 0.85rem;    /* tweak this to taste */
+  line-height: 1.4;     /* optional: adjust spacing so it stays readable */
+}
+
+
+/* ─── Image in blog post────────────── */
+
+body:not(.cv-page) .blog-post img {
+  display: block;
+  margin: 1rem auto;
+  max-width: 90%;
+  height: auto;
+}
+
+
+/* ─── 3. ABOUT PAGE WIDGET ONLY ──────────────────────── */
+
+.globe-widget-fixed {
+  position: relative;
+  bottom: 5em;
+  left: 20%;
+  width: 100px;
+  height: 100px;
+  z-index: 1000;
+}
+
+.globe-widget-fixed iframe,
+.globe-widget-fixed .clstrm_outer {
+  width: 100px !important;
+  height: 100px !important;
+  max-width: 100px !important;
+  max-height: 100px !important;
+}
+
+@media (max-width: 768px) {
+  .clustrmaps-globe {
+    left: 10px;
+    bottom: 10px;
+    width: 80px;
+  }
+}
